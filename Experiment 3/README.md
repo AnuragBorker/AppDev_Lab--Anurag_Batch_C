@@ -17,7 +17,4 @@ It allows users to increment, decrement, and reset a counter with a clean and mi
 
 ## Main Files
 - `MainActivity.kt` → Contains the logic for increment, decrement, and reset.  
-- `activity_main.xml` → Defines the user interface layout.  
-
-## 📸 Screenshot
-![Counter App Screenshot](Output.png)
+- `activity_main.xml` → Defines the user interface layout.
